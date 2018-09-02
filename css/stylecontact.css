@@ -96,6 +96,7 @@ text-align: center;
 .titulo{
 	
 	color:#e2717e;
+	font-size: 20px;
 	
 }
 
@@ -252,36 +253,27 @@ footer{
 
 
 #map{
-width: 100%;
-min-height: 400px;
+	width:auto;
+	min-height: 300px;
+	margin:10px 0px 20px 0px;
+	
+	
+}
+
+#sec-contactos h1{
+	text-align: center;
+	
+	color: #FFFFFF;
+	height: 70px;
+	margin: 60;
+	padding: 15px;
+	
 	
 }
 
 #sec-iconos{
 	text-align: center;
-	
-	color: #FFFFFF;
-	padding: 80px 0;
+	padding: 20px;
 	
 	
 }
-
-
-#sec-iconos .titulo{
-	text-align: center;
-	font-size:20px;
-
-/*	margin: 60;*/
-	
-	
-	
-}
-
-#sec-contactos{
-	
-	text-align: center;
-	color: #fff;
-	padding: 10px;
-}
-
-
